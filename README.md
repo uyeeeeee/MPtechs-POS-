@@ -1,11 +1,12 @@
 MPtechs POS System
-About The Project
-MPtechs is a robust Point of Sale (POS) system tailored for efficient sales management and inventory control. The system is designed to cater to two main user categories: administrators and cashiers. Administrators possess full database access and oversee system configurations, while cashiers manage sales transactions and inventory updates.
+
+MPtechs Point of Sale (POS) System Overview: MPtechs is a powerful POS system designed to facilitate effective inventory control and sales management. Cashiers and administrators are the two primary user groups that the system is intended to support. While cashiers handle sales transactions and inventory changes, administrators maintain system setups and have complete database access.
 
 How the System Works
-Administrators have the authority to create user profiles, manage product listings, and configure system settings. Cashiers utilize the system for processing sales transactions, updating inventory levels, and managing customer interactions. Both admin and cashier roles contribute to the seamless operation of the system.
+The ability to modify product listings, establish user profiles, and alter system settings is granted to administrators. The technology is used by cashiers to handle client contacts, update inventory levels, and conduct sales transactions. The cashier and administrative positions both play a part in the system's smooth operation.
 
-Pages
+
+Pages:
 Landing Page
 Login Page
 Home Page
